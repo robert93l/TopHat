@@ -1,0 +1,2 @@
+rootProject.name = "Top Hat Android Interview Kotlin Setup"
+include ':app'
